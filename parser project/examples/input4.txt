@@ -1,0 +1,11 @@
+read s;
+if s = 2 then
+c := a - 9;
+j := p - o - p;
+
+repeat
+d := l - 0;
+n := k - g - t;
+until x = 5;
+end;
+write wow

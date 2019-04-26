@@ -1,0 +1,29 @@
+instructions:
+1- write input file path in the input file path test field
+   Ex: F:\input2.txt
+
+2- write output file path in the output file path field
+   Ex: F:\output2.txt
+
+3- test the file
+
+4- in case the tree had overlapping nodes or was unclear :
+
+   1- rerun the program 
+   2- change the x_deviation and y_deviation parameters :
+      - increasing x_deviation means the shapes will spread in the x_axis by the magnitude you         specify and same for y_deviation but in y_axis
+      - use numbers in ranges of 10 - 500 as small numbers wont do much effect 
+   3- again insert the same file input and output paths
+
+
+program problems :
+
+it might not work well with parantheses if they were at the begining ex: k=(p + 0)*9; or if they had "-" before them ex: t = p - (g * o);
+  
+Notes : 
+
+for the given examples :
+
+1- input2.txt works best with x_deviation = 150 and y_deviation = 50
+2- input3.txt works best with x_deviation = y_deviation = 0
+3- input4.txt works best with x_deviation = 250 anf y_deviation = 90 (best i could do)

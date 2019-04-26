@@ -1,0 +1,32 @@
+read , Reserved word 
+x , Identifier 
+; , Special symbol 
+if , Reserved word 
+0 , Number 
+< , Special symbol 
+x , Identifier 
+then , Reserved word 
+fact , Identifier 
+:= , Special symbol 
+1 , Number 
+; , Special symbol 
+repeat , Reserved word 
+fact , Identifier 
+:= , Special symbol 
+fact , Identifier 
+* , Special symbol 
+x , Identifier 
+; , Special symbol 
+x , Identifier 
+:= , Special symbol 
+x , Identifier 
+- , Special symbol 
+1 , Number 
+until , Reserved word 
+x , Identifier 
+= , Special symbol 
+0 , Number 
+; , Special symbol 
+write , Reserved word 
+fact , Identifier 
+end , Reserved word 
